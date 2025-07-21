@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I'm a passionate blockchain and front-end developer having experience in Web3, Full Stack Development, UI/interaction Designing and Cloud Systems — Proficient in React(Next.js, CRA), C++, Python, TypeScript/JavaScript(MERN), Styles(Material-UI, Tailwind-CSS, CSS3, SASS, Bootstrap, Framers-motion). I'm also a self-taught Graphic Designer, I work on Adobe Suite and Figma. I aim to develop applications that people enjoy using and create distinctive designs that grab people's attention.
+I’m an AI enthusiast and front-end developer who’s passionate about building thoughtful, intuitive experiences — from full-stack applications to sleek, interactive interfaces.
 
-🔭 I’m currently working at zblocks, where we’re building future of decentralized internet for enterprises. I mostly indulge in blockchain development, front-ends and devops here.
+💻 I work with technologies like React (Next.js, CRA), C++, Python, and TypeScript/JavaScript (MERN). On the design side, I love crafting smooth UIs using Tailwind CSS, Material UI, SASS, and Framer Motion. I’m also a self-taught graphic designer. Whether it’s Figma or Adobe Suite, I enjoy designing clean, memorable visuals that make an impact.
 
-🌱 I’m currently learning more about Front-end architechtures and wirting smart-contracts with Rust and Solidity.
+🔭 Currently at pi-labs, I’m helping build a secure future for truth on the internet. Most of my time goes into front-end development, interface design, and algorithmic thinking.
+
+🌱 Right now, I’m diving deeper into front-end architectures and exploring how AI models are shaping the future of the web. I'm always up for interesting collaborations, creative challenges, or just nerding out over good UI. Let’s connect!
 
 📫 Want to reach me?
 <br/>&emsp;&nbsp; Check my portfolio at [anantdhok.vercel.app](https://anantdhok.vercel.app/)
